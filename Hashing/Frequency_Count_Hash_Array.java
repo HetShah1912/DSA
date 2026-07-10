@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Frequency_Count_Hashing {
+public class Frequency_Count_Hash_Array {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     System.out.print("Enter No. of Elements in Array : ");

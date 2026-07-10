@@ -1,4 +1,4 @@
-public class Frequency_Count {
+public class Frequency_Count_For_Loop {
   static void Count_Frequency(int[] arr, int n) {
     int count = 0;
     for (int i = 0; i < arr.length; i++) {
